@@ -11,6 +11,8 @@ How to use:
 Paste in your VRED Script Editor and Execute
 Execute the Variant with the ending *_blend to blend into that Variant Set
 
+Scripted by Simon Nagel
+
 '''
 
 def deleteVariantBlendGroups():
