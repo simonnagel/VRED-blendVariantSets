@@ -1,5 +1,5 @@
 # VRED-blendVariantSets
-## Use this script to enable blend between Variant Sets
+## Use this script to enable blending between Variant Sets
 
 - Paste the file VRED-blendVariantSets.py to your VRED Script Editor
 - Press Run
